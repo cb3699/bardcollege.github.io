@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(30, 15, 25);
+    background-color: rgb(188, 143, 143);
     color: linen;
     font-size: 150%;
     line-height: 1.4;
@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: rgb(206, 216, 167);
+    color: rgb(148, 0, 211);
 }
 
 h2{
@@ -62,8 +62,8 @@ img{
 }
 
 .redacted{
-    background-color: rgb(215, 206, 199);
-    color:  rgb(215, 206, 199);
+    background-color: rgb(0, 255, 0);
+    color:  rgb(255, 0, 255);
 }
 
 .half{
