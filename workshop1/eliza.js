@@ -230,6 +230,7 @@ var rules = {
 var default_responses = [
   "Very interesting",
   "I am not sure I understand you fully",
+  "MMMMMM quite"
   "What does that suggest to you?",
   "Please continue",
   "Go on",
